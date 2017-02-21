@@ -41,3 +41,122 @@ User.findById(id).then((user) => {
     }
     console.log('User by Id', user);
 }).catch((e) => console.log(e));
+
+
+// Practice typing Todo.findById Structure
+// Todo.findById(id).then((todo) => {
+//     if (!todo) {
+//         return console.log('Todo not found!');
+//     }
+//     console.log('Todo by ID', todo);
+// }).catch((e) => console.log(e));
+
+
+// Todo.findById(id).then((todo) => {
+//     if (!todo) {
+//         return console.log('Unable to find todo');
+//     }
+//     console.log('Todo by ID', todo);
+// }).catch((e) => console.log(e));
+
+
+// Todo.findById(id).then((todo) => {
+//     if (!todo) {
+//         return console.log('Unable to find todo');
+//     }
+//     console.log('Todo by ID', todo);
+// }).catch((e) => console.log(e));
+
+
+// Todo.findById(id).then((todo) => {
+//     if (!todo) {
+//         return console.log('Unable to find todo');
+//     }
+//     console.log('Todo by ID', todo);
+// }).catch((e) => console.log(e));
+
+
+// Todo.findById(id).then((todo) => {
+//     if (!todo) {
+//         return console.log('Unable to find todo');
+//     }
+//     console.log('Todo by ID', todo);
+// }).catch((e) => console.log(e));
+
+
+// Todo.findOne({
+//     _id: id
+// }).then((todo) => {
+//     console.log('Todo', todo);
+// });
+
+
+// Todo.findOne({
+//     _id: id
+// }).then((todo) => {
+//     console.log('Todo', todo);
+// });
+
+// Todo.findById(id).then((todo) => {
+//     if (!todo) {
+//         return console.log('Unable to find todo');
+//     }
+//     console.log('Todo by ID', todo);
+// }).catch((e) => console.log(e));
+
+
+// Todo.findOne({
+//     _id: id
+// }).then((todo) => {
+//     console.log('Todo', todo);
+// });
+
+
+// Todo.findById(id).then((todo) => {
+//     if (!todo) {
+//         return console.log('Unable to find todo');
+//     }
+//     console.log('Todo', todo);
+// }).catch((e) => console.log(e));
+
+// Todo.findOne({
+//     _id: id
+// }).then((todo) => {
+//     console.log('Todo', todo);
+// });
+
+// Todo.find({
+//     _id: id
+// }).then((todos) => {
+//     console.log('Todos', todos);
+// });
+
+
+// Todo.findById(id).then((todo) => {
+//     if (!todo) {
+//         return console.log('Unable to find todo');
+//     }
+//     console.log('Todo', todo);
+// }).catch((e) => console.log(e));
+
+
+// Todo.find({
+//     _id: id
+// }).then((todos) => {
+//     console.log('Todos', todos);
+// });
+
+
+// Todo.findOne({
+//     _id: id
+// }).then((todo) => {
+//     console.log('Todo', todo);
+// });
+
+
+// Todo.findById(id).then((todo) => {
+//     if (!todo) {
+//         return console.log('Unable to find Todo');
+//     }
+//     console.log('Todo', todo);
+// }).catch((e) => console.log(e));
